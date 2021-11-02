@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/COMP4050/static/css/main.7b37e099.chunk.css",
+    "main.js": "/COMP4050/static/js/main.b9e92150.chunk.js",
+    "main.js.map": "/COMP4050/static/js/main.b9e92150.chunk.js.map",
+    "runtime-main.js": "/COMP4050/static/js/runtime-main.dcad2b78.js",
+    "runtime-main.js.map": "/COMP4050/static/js/runtime-main.dcad2b78.js.map",
+    "static/css/2.feda8dcb.chunk.css": "/COMP4050/static/css/2.feda8dcb.chunk.css",
+    "static/js/2.5aa0be9d.chunk.js": "/COMP4050/static/js/2.5aa0be9d.chunk.js",
+    "static/js/2.5aa0be9d.chunk.js.map": "/COMP4050/static/js/2.5aa0be9d.chunk.js.map",
+    "index.html": "/COMP4050/index.html",
+    "static/css/2.feda8dcb.chunk.css.map": "/COMP4050/static/css/2.feda8dcb.chunk.css.map",
+    "static/css/main.7b37e099.chunk.css.map": "/COMP4050/static/css/main.7b37e099.chunk.css.map",
+    "static/js/2.5aa0be9d.chunk.js.LICENSE.txt": "/COMP4050/static/js/2.5aa0be9d.chunk.js.LICENSE.txt",
+    "static/js/main.b9e92150.chunk.js.LICENSE.txt": "/COMP4050/static/js/main.b9e92150.chunk.js.LICENSE.txt",
+    "static/media/Ben.751effc0.gif": "/COMP4050/static/media/Ben.751effc0.gif",
+    "static/media/JonahStatic.7e50d288.png": "/COMP4050/static/media/JonahStatic.7e50d288.png",
+    "static/media/Leon.48d7b286.gif": "/COMP4050/static/media/Leon.48d7b286.gif",
+    "static/media/LeonStatic.93010499.png": "/COMP4050/static/media/LeonStatic.93010499.png",
+    "static/media/Mal.17925508.png": "/COMP4050/static/media/Mal.17925508.png",
+    "static/media/MeshStatic.5d8857ba.png": "/COMP4050/static/media/MeshStatic.5d8857ba.png",
+    "static/media/Meshari.925395d3.gif": "/COMP4050/static/media/Meshari.925395d3.gif",
+    "static/media/benStatic.f8134685.png": "/COMP4050/static/media/benStatic.f8134685.png",
+    "static/media/splash.scss": "/COMP4050/static/media/topWave.d2d636c2.svg",
+    "static/media/fatherhood.0ead969c.svg": "/COMP4050/static/media/fatherhood.0ead969c.svg",
+    "static/media/image-not-found.c4ba1e76.png": "/COMP4050/static/media/image-not-found.c4ba1e76.png",
+    "static/media/jonah.c43747f5.gif": "/COMP4050/static/media/jonah.c43747f5.gif",
+    "static/media/map.1567b519.png": "/COMP4050/static/media/map.1567b519.png",
+    "static/media/profilePic.a65d4bca.svg": "/COMP4050/static/media/profilePic.a65d4bca.svg",
+    "static/media/robo.246ece81.svg": "/COMP4050/static/media/robo.246ece81.svg",
+    "static/media/togetherimg.1a0174c6.jpg": "/COMP4050/static/media/togetherimg.1a0174c6.jpg",
+    "static/media/wave.47fbab43.png": "/COMP4050/static/media/wave.47fbab43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcad2b78.js",
+    "static/css/2.feda8dcb.chunk.css",
+    "static/js/2.5aa0be9d.chunk.js",
+    "static/css/main.7b37e099.chunk.css",
+    "static/js/main.b9e92150.chunk.js"
+  ]
+}
